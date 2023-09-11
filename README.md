@@ -1,6 +1,4 @@
-[![Open in Leap IDE](
-  https://cdn-assets.cloud.dwavesys.com/shared/latest/badges/leapide.svg)](
-  https://ide.dwavesys.io/#https://github.com/dwave-examples/maximum-cut)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/dtate-wave/maximum-cut?quickstart=1)
 [![Linux/Mac/Windows build status](
   https://circleci.com/gh/dwave-examples/maximum-cut.svg?style=shield)](
   https://circleci.com/gh/dwave-examples/maximum-cut)
